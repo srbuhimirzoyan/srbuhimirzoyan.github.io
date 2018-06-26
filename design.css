@@ -1,0 +1,42 @@
+html{background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpezFpByd51djxB2v_UIEV-NyRHBHh2GBOUIY3aTo0To0wfxt4);
+     height: 100%;
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Times New Roman", Times, serif;}
+
+    body { color: white;}
+
+    h1{text-align: justify;
+    	word-spacing: 10px;
+    	text-shadow: 3px 4px purple;}
+    h2{text-align: justify;
+    	word-spacing: 10px;
+    	text-shadow: 3px 4px purple;}
+
+ #index_main{font-size: 120%;}
+ #persmail{font-size: 150%;}
+
+ #persmail:hover{background-color: #8c1077;
+                 color: #3a54e8}
+ #next{background-color: #914caf;
+           color: white}
+ #next:hover{background-color: #4c61af;
+           color: yellow}
+  #submit1{background-color: #914caf;
+           color: white}
+  #submit1:hover {background-color: white;
+      color: black;}
+  #profint:hover{background-color: #8c1077;
+                 color: white}
+  #suggestions{font-size: 134%;}
+  #fillform{font-size: 134%;}
+
+
+  .gitpage:hover{background-color: #e9c5f7;
+           color: #5662ce}
+  .gitpage{color: #e9c5f7}
+
+  .preferred{font-size: 158%;}
+  .skillspage{font-size: 149%;}
+
